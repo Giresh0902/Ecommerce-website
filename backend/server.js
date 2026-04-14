@@ -11,7 +11,7 @@ const app = express();
 app.use(cors({
   origin: [
     process.env.CLIENT_URL || "http://localhost:3000",
-    "https://your-vercel-app-url.vercel.app"
+    "https://ecommerce-website-ht9z73z21-giresh0902s-projects.vercel.app"
   ],
   credentials: true
 }));
