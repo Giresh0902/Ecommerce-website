@@ -189,19 +189,5 @@ npm run dev
 | HTTP     | Axios                               |
 | Notifications | React Toastify                |
 
----
-
-## 📝 Resume Points
-
-- Built a full-stack e-commerce platform using the MERN stack
-- Implemented JWT-based authentication with role-based access control (Admin/User)
-- Integrated Stripe payment gateway for secure order processing
-- Designed RESTful APIs with Express.js serving 15+ endpoints
-- Built an admin dashboard with real-time sales analytics and order management
-- Used React Context API for global state management (cart, auth)
-- Deployed backend on Render and frontend on Vercel
-
----
-
 ## 📄 License
 MIT — Free to use for personal and commercial projects.
